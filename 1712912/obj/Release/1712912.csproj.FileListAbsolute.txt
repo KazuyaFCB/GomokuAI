@@ -1,0 +1,17 @@
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\bin\Release\1712912.exe.config
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\bin\Release\1712912.exe
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\bin\Release\1712912.pdb
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\MainWindow.baml
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\Player1vsPlayer2.baml
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\PlayervsComputer.baml
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\MainWindow.g.cs
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\Player1vsPlayer2.g.cs
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\PlayervsComputer.g.cs
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\App.g.cs
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912_MarkupCompile.cache
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912.g.resources
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\_1712912.Properties.Resources.resources
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912.csproj.GenerateResource.Cache
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912.exe
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912.pdb
+D:\Vinh175\Hoc\Nam3\LapTrinhWindows\Game Caro\1712912\1712912\obj\Release\1712912.csprojResolveAssemblyReference.cache
